@@ -1,5 +1,5 @@
 # Code Samples
-This repository includes four selected data science projects demonstrating end-to-end workflows in Python and R. 
+This repository includes some code scirpts demonstrating end-to-end workflows in Python and R. 
 
 ## 🐍 Python
 
