@@ -1,5 +1,5 @@
 # Code Samples
-This repository includes some code scirpts demonstrating end-to-end workflows in Python and R. 
+This repository features end-to-end workflow scripts for conducting statistical and modeling analysis (including descriptive statistics, inferential methods, linear and panel data models), applying machine learning and deep learning techniques (such as classification, feature engineering and selection, model evaluation, and the use of pre-trained LLMs), performing data wrangling and programming (cleaning, merging, and standardizing structured and unstructured data), and developing clear, reproducible visualizations and reports. All projects are implemented using both Python and R to build standardized data pipelines and effectively communicate findings.
 
 ## 🐍 Python
 
